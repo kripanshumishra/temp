@@ -7,10 +7,11 @@
     "Gender": "Female",
     "Birthday": "Feb 24th, 1997",
     "PhoneNumber": 111111,
-    "StreetAddress": "JI. Diponegoro No. 21",
+    "StreetAddress": "JI Diponegor 21",
     "ZIPCode": 655849,
     "MemberStatus": "Active Member",
-    "RegisterDate": "Feb 24th, 1997"
+    "RegisterDate": "Feb 24th, 1997",
+    "city":"cilecop"
     },
     {
     "createdAt": "2021-11-25T07:30:01.136Z",
