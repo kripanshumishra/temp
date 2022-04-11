@@ -10,6 +10,9 @@ const Port = process.env.PORT || 5000;
 app.get('/',(req,res)=>{
     res.json(require('./data.json'))
 })
+app.get('/appointment',(req,res)=>{
+    res.json(require('./appointment.json'))
+})
 app.listen(Port,()=>{
-    console.log('server is running ')
+    console.log('server is running ',Port)
 })
